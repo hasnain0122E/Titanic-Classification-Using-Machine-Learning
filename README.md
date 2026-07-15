@@ -128,11 +128,10 @@ Since F1-Score provides a balanced evaluation of Precision and Recall, it was us
 # 📁 Repository Structure
 
 ```
-ML_P3_Learning_Classification_Algorithm/
+Titanic-Classification-Using-Machine-Learning/
 │
 ├── data/
-│   ├── train.csv
-│   └── test.csv
+│   ├── Titanic.csv
 │
 ├── notebooks/
 │   └── Titanic_Classification.ipynb
@@ -166,13 +165,13 @@ ML_P3_Learning_Classification_Algorithm/
 Clone the repository
 
 ```bash
-git clone https://github.com/hasnain0122E/ML_P3_Learning_Classification_Algorithm.git
+git clone https://github.com/hasnain0122E/Titanic-Classification-Using-Machine-Learning.git
 ```
 
 Navigate to the project directory
 
 ```bash
-cd ML_P3_Learning_Classification_Algorithm
+cd Titanic-Classification-Using-Machine-Learning
 ```
 
 Install dependencies
@@ -225,7 +224,7 @@ This project helped strengthen my understanding of:
 **Hasnain Ali**
 
 - GitHub: https://github.com/hasnain0122E
-- LinkedIn: *(Add your LinkedIn profile URL here)*
+- LinkedIn: *https://www.linkedin.com/in/hasnainali7867/*
 
 ---
 
